@@ -65,8 +65,8 @@
 
 ### Решение 2
 
-1. ![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/21.png)
-   ![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/22.png)
+1. ![alt text](https://github.com/Replica63/zabbix2/blob/main/img/21.png)
+   ![alt text](https://github.com/Replica63/zabbix2/blob/main/img/22.png)
 
 ### Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
@@ -81,8 +81,8 @@
 
 ### Решение 3
 
-   ![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/21.png)
-   ![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/22.png)
+   ![alt text](https://github.com/Replica63/zabbix2/blob/main/img/21.png)
+   ![alt text](https://github.com/Replica63/zabbix2/blob/main/img/22.png)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
@@ -95,4 +95,4 @@
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 ### Решение 4
-   ![alt text](https://github.com/Replica63/hw-zabbix/blob/main/img/44.png)
+   ![alt text](https://github.com/Replica63/zabbix2/blob/main/img/44.png)
